@@ -1,0 +1,185 @@
+﻿앱, 웹페이지 X - 페이 적어
+클라우드 위에 프로그램 최소단가 o
+
+없는 빅데이터 만드는 자체 - 돈
+만든 걸 다루는 것도 - 돈
+
+암이다, 암이었다. CT- DB
+SK 데이터 수집, 위치 정보
+
+취업 - 빅데이터 + roadjs 서버 언어, 안드로이드 웹앱
+프론트엔드 개발자 + 빅데이터 R 분석
+점프
+자바 솔루션, 빅데이터 메이저, 좋은 회사
+
+개발자 마인드 / 요리처럼 하나 가지고 변종을 만들어봐야
+레시피대로 흘러가지 않아 / 문화, 가치를 어디에 두는가
+중요한 걸 먼저, 나머지는 천천히 메꾸어 나가
+★재미, 각자 개성에 맞게 다른 회사. 다른 길
+내공을 쌓자 / (R은 통계)
+빅데이터 - 하둡
+프로그래밍 - 자료구조, 알고리즘
+
+파이썬 - 리눅스 , 라즈베리파이 다양한 기계, 센서 / 제어
+
+삽질 - 연구개발 사전작업, 핵심이 될 수도
+사람 롤모델을 찾아라
+교양, 문화
+다른 사람이 생각 못한 가치
+ 
+처음 다른 사람이 안해본 일
+★프레임워크 만드는 일 꼭 참여하자
+★차세대 프로그램 테스크포스, 새로운 흐름
+안드로이드 > AI 프로젝트 팀, 빅데이터 팀 팀장 구성
+회사 투자, 일 1~2시간 / 비경제적 - 꼭 참여
+
+저녁 먹고 2~3시간 교육 내재화
+서버 개발자, 서버 콘솔, 응용, 하루 생활 - 개발자 엔지니어 라이프사이클. 
+학부 vs 대학원 차이 - 연구력, 개발
+기술 고도화 
+1. 처음 배우고
+2. 기초체력 - 스스로 공부하고 찾고(연구력)
+IT기술 자기 컨텐츠, 자신이 만든 어플에 살을 붙여
+
+★리눅스 재미, 욕심 X
+it 솔루션 업체 비전공자 - 리눅스
+
+무니무니 그네 유튜브 - AI 딥러닝 
+havok physics 유비소프트 어쌔신크리드 물리 엔진
+unreal engine 게임 엔진 개발 스튜디오+ motion capture
+
+https://unity3d.com/kr - 1인, 2인 모바일 게임 개발
+유니티로 만들어서 pc나 모바일로 뽑아 import export
+
+락스타 GTA 7000억 투자 24조 매출 / 레드데드리뎀션
+너티 독 라스트 오브 어스, 손 떨고 기타 치기, 사람 피부
+(울티마세대) 위쳐3 3000억 투자 5만원 사서 30만원치
+
+게임 (만드는 거), 쓰인 기술
+
+어떤 데이터 어떻게 수집? (샤오미 밴드 10년 수백만명)
+시대적 가치, 추세 - 찾는 사람이 자꾸 바뀌어
+하드웨어 가격 떨어짐, 소프트웨어 기술 보편화
+기업들이 도전, 개발자 없어 대 중소기업 뽑는 능력 같아
+
+엔지니어 - 안잘려, 좋은 공장 철거 = 회사 문 닫는 거
+기술은 쌓이면 무섭다. 신입 때 힘들고 점점 편해져
+프로젝트 성공 - 현실은 쉬고 다음프로젝트 반복 
+돈 버는 기계. 
+
+IOT + 빅데이터
+
+스타트업 
+단순무식반복★일 정확똑똑 자동화 - 리멤버(명함) 알바10
+ 
+
+-
+★Linux
+Cloud
+S/C
+Open Source
+★CS모델 개념 - 기업형 솔루션
+
+-
+임베디드 - 인텔 8bit cpu - 2^8 = 0~255
+8086
+8088
+PIC
+
+-
+페이스북, 구글 - 판매가 아닌 광고에서 수익
+오픈소스 공유하되 그 기술을 선도할 수 있을 때 1등
+게임 모드 - 마인크래프트, 엘더스크롤, 폴아웃4
+
+-
+https://www.virtualbox.org/
+https://www.vmware.com/kr.html
+https://www.redhat.com/ko/topics/virtualization/what-is-KVM
+
+리눅스 받는 곳(비트토렌트)
+https://www.ubuntu.com/download/alternative-downloads
+
+★좋은 사이트
+https://kldp.org/
+
+http://tajo.apache.org/
+
+FTP 서버 - 클라이언트(메신저, 쌈바서버) / 파일 이어받기
+https://filezilla-project.org/download.php?type=client
+
+http://www.4irsw.com/ngb5/
+
+★강좌
+http://linux.co.kr/
+https://www.sulinux.net/web/
+
+https://cran.r-project.org/mirrors.html
+
+Java SE 8u181
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+메모장 에디터
+https://www.sublimetext.com/
+https://atom.io/
+
+★책
+http://korean.joelonsoftware.com/
+
+전자정부 자바
+https://spring.io/
+http://www.egovframe.go.kr/EgovEnvRun.jsp?menu=1&submenu=3&leftsub=1
+
+레진코믹스 slideshare 구글 앱엔진 클라우드
+https://www.slideshare.net/curioe_/lezhincomics-google-appengine-30453946
+아마존 aws
+https://aws.amazon.com/ko/
+구글 앱엔진, 마이크로소프트 azure
+https://www.openstack.org/
+https://cloudstack.apache.org/
+서버개발자 + 빅데이터 클라우드 데이터베이스
+
+아파치 하이브 페이스북 개발, 넷플릭스 등 사용 RDB 방식
+https://ko.wikipedia.org/wiki/%EC%95%84%ED%8C%8C%EC%B9%98_%ED%95%98%EC%9D%B4%EB%B8%8C
+
+코딩 연습하는 곳
+www.hackerrank.com
+
+데이터 추출 다운받는 곳
+https://mdis.kostat.go.kr/extract/extSurvSearchByDate.do?extcTypeDivCD=E&curMenuNo=UI_POR_P1070#
+
+https://www.data.go.kr/
+http://odf.or.kr/
+
+===================================
+(현대)캐피탈, 채권 nonprofit loan, 금융 노하우 = 매출
+50억 채무자 리스트 대부업체에 5억에 매매
+추심 > 빅데이터★ 과장 / 인식 바뀌어 연봉도 높아
+실제로 이런 쪽으로 프로그램을 많이 짜줘 3억~10억
+미분 적분 할인율 프로그램 만들기 어려워, 탈모
+
+스타트업 1년, 롯데 그린카 인수ed / SK 쏘카 인수중
+o2o 쏘카 차량관리, 마케팅 부서- 밖으로 나가서 시장조사
+온라인이나 모바일에서 대금결제를 한 후, 오프라인에서 실제 서비스와 물건을 받는 소비형태를 뜻합니다.
+일반 6년 10만, 쏘카 4개월 10만 - 중고차로 매매, 횡령
+리베이트, 팀장 30대 중반 1년에 두 세번 차 바꿔
+아침에 정했던 일이, 점심에 바뀌기도 해.
+임기응변을 배울 수는 있으나 사람이 빨리 지쳐
+출퇴근은 확실한데 엄청 힘들어 녹초 / 워라밸 X 퇴근업무
+실물 없는 소프트웨어는 괜찮은데, 
+실물이 있는 스타트업은 힘들어 / 규율 잘 정하고
+열매를 잘 나눠야 / 그래야 견뎌나갈 수 있어
+
+★회사에서 인정받는 욕구
+
+왼 상하 - 이륙 착륙
+왼 좌우 - 해당 방향 회전(드론 앞부분 기준)
+
+우 상하 - 전진 후진(드론 앞부분 기준)
+우 좌우 - 해당 방향 이동
+
+===================================
+
+GUI 그래픽 유저 인터페이스
+https://semantic-ui.com/elements/button.html
+
+https://www.google.co.kr/search?newwindow=1&ei=vjLEW-mGJ4z38gXL-JXgAQ&q=%EA%B5%AD%EB%82%B4+UI+%EC%82%AC%EC%9D%B4%ED%8A%B8&oq=%EA%B5%AD%EB%82%B4+UI+%EC%82%AC%EC%9D%B4%ED%8A%B8&gs_l=psy-ab.3...9121.9678.0.9784.6.5.0.0.0.0.141.250.0j2.2.0....0...1c.1j4.64.psy-ab..5.0.0....0.wTvVnruN0Gw
